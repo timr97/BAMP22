@@ -1,6 +1,6 @@
-This repository consists of two independent prototype implementations which have been worked out as part of the BAMP 2022 by Ante Jelavic, Franziskus Perkhofer, Manuel Mencher, Melissa Ewering, Tim Ritzheimer.
+This repository consists of two independent prototype implementations which have been worked out as part of the BAMP 2022 by Ante Jelavic, Franziskus Perkhofer, Manuel Mencher, Melissa Ewering and Tim Ritzheimer.
 
-While the first prototype, saved in folder "1-Sentiment & Emotion Analysis" deals with classifying twitter data in sentiments and emotions, the second prototype, saved in folder "2-Topic Modelling" deals with the automatic detection of themes. This README file will in the follwing explain what has to be considered to run this scripts.
+While the first prototype, saved in folder "1-Sentiment & Emotion Analysis" deals with classifying twitter data in sentiments and emotions, the second prototype, saved in folder "2-Topic Modelling", deals with the automatic detection of themes. This README file will in the follwing explain what has to be considered to run this scripts.
 
 **1-Sentiment & Emotion Analysis:**
 
