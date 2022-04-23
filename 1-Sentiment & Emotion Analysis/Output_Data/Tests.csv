@@ -1,0 +1,14 @@
+Variable 1;Variable 2;P-Value - Chi-square test;Effect size - Cramers V
+Age;Sentiment;0.0;0.1035994604307967
+Gender;Sentiment;6,58E+10;0.00895950919327114
+Topic - Covid;Sentiment;0.00017827694220970481;0.008413787977396878
+Topic - Brexit;Sentiment;4,26E+00;0.018252941165965292
+Topic - ESG;Sentiment;6,29E-13;0.024592722005054978
+Age;Emotion;0.0;0.06115472205823401
+Gender;Emotion;0.0;0.10706706264356
+Topic - Covid;Emotion;0.0;0.08913972130093012
+Topic - Brexit;Emotion;5,34E-116;0.05596542287673583
+Topic - ESG;Emotion;0.0;0.08648352292569428
+Age <30 & 30-39;Sentiment;1,38E-188;0.18973798626092847
+Brexit or ESG;Sentiment;1,64E-22;0.30050425561520616
+Gender;Fear or not fear;1,37E-256;0.07919082748188042
