@@ -5,8 +5,8 @@ While the first prototype, saved in folder "1-Sentiment & Emotion Analysis" deal
 **1-Sentiment & Emotion Analysis:**
 
 Folder structure:
-- Input data: This is one file ("Demographics.xls") which has been created manually
-- Output data: Here, all files which are created with the scripts (except visualizations) are stored. Three files ("Tweets.csv" + "enTweetsNew.csv" + "FinalResults.csv") have been uploaded with a smaller data set because of space limitation of GitHub (100 MB). However, the full version of those three can be found here (Access limited to Mannheim Business School accounts): https://mbs3du-my.sharepoint.com/:f:/g/personal/tritzhei_mbs_education/ErAZdCpLKNlCsiZFnk9nrtABTDre2eB_fO3hqabttb-evw?e=hCsqOZ 
+- Input data: This is one file ("Demographics.xls") which has been created manually - This includes public person and their twitter ID so that a API call to collect tweet data can be made
+- Output data: Here, all files which are created with the scripts (except visualizations) are stored. For example the collected Tweets which will be analyzed are stored here. Three files ("Tweets.csv" + "enTweetsNew.csv" + "FinalResults.csv") have been uploaded with a smaller data set because of space limitation of GitHub (100 MB). However, the full version of those three can be found here (Access limited to Mannheim Business School accounts): https://mbs3du-my.sharepoint.com/:f:/g/personal/tritzhei_mbs_education/ErAZdCpLKNlCsiZFnk9nrtABTDre2eB_fO3hqabttb-evw?e=hCsqOZ 
 - Scripts: All scripts are save including the outputs. The follwing order does represent the process in which the scripts were run / implemented:
     1. DataCollectionTweetsPerUser
     2. SentimentAnalysis: Should be run in Google colab - otherwise commands (e.g. like data reading) needs to be adjusted to run locally
